@@ -15,7 +15,7 @@ I work on **AI applications in finance and fintech** — machine learning, data 
 
 - 🔮 **[telecomx-churn-prediction](https://github.com/MarlonPC32/telecomx-churn-prediction)** — ML pipeline (Logistic Regression, Random Forest) predicting customer churn: EDA, feature engineering, evaluation with accuracy / precision / recall / F1
 - 📊 **[telecomx-churn-analysis](https://github.com/MarlonPC32/telecomx-churn-analysis)** — the exploratory analysis behind the prediction models
-- 🏪 **[alura-store-analisis](https://github.com/MarlonPC32/alura-store-analisis)** — sales analysis across 4 retail stores to recommend which one to sell
+- 🏪 **[alura-store-analysis](https://github.com/MarlonPC32/alura-store-analysis)** — sales analysis across 4 retail stores to recommend which one to sell
 - 🗺️ **[community-help-hudson](https://github.com/MarlonPC32/community-help-hudson)** — bilingual (EN/ES) community resource map for Hudson County
 
 ## 💼 Background
