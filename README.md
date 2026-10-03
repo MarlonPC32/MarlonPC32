@@ -13,9 +13,9 @@ Seeking **Summer 2027 internships** in tech and finance. I'm working toward **AI
 
 ## 📌 Featured projects
 
-- **[credit-default-decision-service](https://github.com/MarlonPC32/credit-default-decision-service)** — end-to-end credit default prediction: calibrated model, cost-based threshold selection, FastAPI decision API with SQL logging and tests
+- **[credit-default-decision-service](https://github.com/MarlonPC32/credit-default-decision-service)** — default-risk scoring for existing credit card customers: calibration evaluation, validation-based threshold selection, and a FastAPI scoring API with SQL logging and tests
 - **[daylight-case-study](https://github.com/MarlonPC32/daylight-case-study)** — technical case study of the on-demand services platform: architecture, hard problems, live ops at Black Hat 2026
-- **[telecomx-churn-prediction](https://github.com/MarlonPC32/telecomx-churn-prediction)** — ML pipeline (Logistic Regression, Random Forest) predicting customer churn, with honest baselines and limitations
+- **[telecomx-churn-prediction](https://github.com/MarlonPC32/telecomx-churn-prediction)** — ML pipeline (Logistic Regression, Random Forest) predicting customer churn, with a majority-class baseline and documented limitations
 - **[alura-store-analysis](https://github.com/MarlonPC32/alura-store-analysis)** — sales analysis across 4 retail stores to identify the weakest performer
 - **[community-help-hudson](https://github.com/MarlonPC32/community-help-hudson)** — bilingual (EN/ES) community resource map for Hudson County
 
