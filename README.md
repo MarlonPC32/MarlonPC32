@@ -1,8 +1,8 @@
-# Hi, I'm Marlon Crespo 👋
+# Hi, I'm Marlon Crespo
 
-**Computer Science @ Columbia University** (B.A., expected 2028) · New York, NY
+**Computer Science @ Columbia University** (B.A., expected May 2028) · New York, NY
 
-I work on **AI applications in finance and fintech** — machine learning, data analysis, and building products people actually use.
+Seeking **Summer 2027 internships** in tech and finance. I'm working toward **AI applications in finance and fintech** — machine learning, data analysis, and building products people actually use.
 
 ## 🛠️ What I work with
 
@@ -13,10 +13,10 @@ I work on **AI applications in finance and fintech** — machine learning, data 
 
 ## 📌 Featured projects
 
-- 🔮 **[telecomx-churn-prediction](https://github.com/MarlonPC32/telecomx-churn-prediction)** — ML pipeline (Logistic Regression, Random Forest) predicting customer churn: EDA, feature engineering, evaluation with accuracy / precision / recall / F1
-- 📊 **[telecomx-churn-analysis](https://github.com/MarlonPC32/telecomx-churn-analysis)** — the exploratory analysis behind the prediction models
-- 🏪 **[alura-store-analysis](https://github.com/MarlonPC32/alura-store-analysis)** — sales analysis across 4 retail stores to recommend which one to sell
-- 🗺️ **[community-help-hudson](https://github.com/MarlonPC32/community-help-hudson)** — bilingual (EN/ES) community resource map for Hudson County
+- **[telecomx-churn-prediction](https://github.com/MarlonPC32/telecomx-churn-prediction)** — ML pipeline (Logistic Regression, Random Forest) predicting customer churn: EDA, feature engineering, evaluation with accuracy / precision / recall / F1
+- **[telecomx-churn-analysis](https://github.com/MarlonPC32/telecomx-churn-analysis)** — the exploratory analysis behind the prediction models
+- **[alura-store-analysis](https://github.com/MarlonPC32/alura-store-analysis)** — sales analysis across 4 retail stores to identify the weakest performer
+- **[community-help-hudson](https://github.com/MarlonPC32/community-help-hudson)** — bilingual (EN/ES) community resource map for Hudson County
 
 ## 💼 Background
 
